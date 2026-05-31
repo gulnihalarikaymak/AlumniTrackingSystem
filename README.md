@@ -1,11 +1,7 @@
 # Alumni Tracking System
- This is a code bundle for ATS. The original project is available at https://www.figma.com/design/Aer3xj68QrDssrcNlLlosw/ATS.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+ This is a code bundle for ATS. The original web site is available at;
+ 
+ https://ats.figma.site/
   
 ## Overview
 
@@ -56,6 +52,17 @@ The primary objective of this project is to provide universities with a digital 
 - Integration with university information systems
 
 ---
+
+## Skills Demonstrated
+
+- Software Development
+- Problem Solving
+- System Analysis
+- Full-Stack Development
+- Database Design
+- Team Collaboration
+- Project Management
+
 
 ## Author
 
